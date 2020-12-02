@@ -1,0 +1,70 @@
+/*BREAKPOINTS
+
+960px
+740px */
+
+@media (max-width: 739px) {
+    .menu-nav {
+        float: none;
+        clear: both;
+    }
+    .intro {
+        padding: 50px 0;
+    }
+    .intro h1 {
+        font-size: 1.5em;
+    }
+    .sobre-container {
+        max-width: 300px;
+    }
+    .sobre-item {
+        width: 300px;
+        margin: 0 auto;
+    }
+    .produto-container {
+        max-width: 300px;
+    }
+    .produto-item {
+        width: 300px;
+        margin: 0 auto;
+    }
+    .locais {
+        max-width: 300px;
+    }
+    .locais-item img {
+        width: 300px;
+        
+    }
+    .locais-item > div {
+        width: 300px;
+        
+    }
+    
+}
+@media (min-width: 740px) and (max-width: 980px) {
+    .sobre-container {
+        max-width: 720px;
+    }
+    .sobre-item {
+        width: 340px;
+    }
+    .produto-container {
+        max-width: 720px;
+    }
+    .produto-item {
+        width: 220px;
+        
+    }
+    .locais {
+        max-width: 720px;
+    }
+    .locais-item img {
+        width: 340px;
+        
+    }
+    .locais-item > div {
+        width: 320px;
+        
+    }
+}
+
