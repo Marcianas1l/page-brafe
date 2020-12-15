@@ -12,6 +12,8 @@ Para visualizar a página publicada:
 
 https://marcianas1l.github.io/page-brafe/
 
+![page-brafe](img/brafe.gif)
+
 # Contato
 [E-mail] - ana18silva@gmail.com
 
